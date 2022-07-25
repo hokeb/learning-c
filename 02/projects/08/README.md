@@ -1,4 +1,4 @@
-# Programming Projects 2.07
+# Programming Projects 2.08
 
 Write a program that calculates the remaining balance on a loan after the first, second, and third monthly payments:
 
