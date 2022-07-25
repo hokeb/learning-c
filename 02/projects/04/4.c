@@ -10,7 +10,7 @@ int main(void)
     scanf("%f", &amount);
 
     amount = amount + (amount * percent);
-    printf("With 5%% tax included: $%.2f\n", amount);
+    printf("With 5%% tax added: $%.2f\n", amount);
 
     return 0;
 }
