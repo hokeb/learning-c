@@ -11,5 +11,5 @@ For each of the following pairs of `scanf` format strings, indicate whether or n
 
 (a) equivalent\
 (b) not equivalent - `scanf` will look for a `-` and find a space and terminate in the second string\
-(c) not equivalent - `scanf` will expect a non-whitespace character to be entered prior to ending the statement
+(c) not equivalent - `scanf` will expect a non-whitespace character to be entered prior to ending the statement\
 (d) eqivalent - white space will be ignored until finding the next conversion specifier or ordinary character
